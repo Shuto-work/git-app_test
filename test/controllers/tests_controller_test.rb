@@ -1,5 +1,5 @@
 require "test_helper"
-#テストじゃああああああ
+#テストじゃああああああ2
 class TestsControllerTest < ActionDispatch::IntegrationTest
   def index
     
